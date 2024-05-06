@@ -1,6 +1,10 @@
 
 # Roadmap Generator
-Generate presonalized roadmap using chatgpt.
+
+## Objective
+Develop a REST API service that leverages LangChain and TypeScript to dynamically generate
+personalized learning roadmaps based on a given topic. The service will accept a title as input
+and return a detailed learning roadmap in JSON format.
 
 ## Run Locally  
 
